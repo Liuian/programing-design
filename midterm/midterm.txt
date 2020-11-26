@@ -1,0 +1,13 @@
+print 小數點後兩位 => %.2f
+print 0004 => "%.4d"
+print ___4 => "%4d"
+print 4___ => "%-4d"
+scan 2位 => "%2d"
+
+double => lf
+
+pow(a,2) == a^2
+sqrt(4) == 2
+abs(b - c) == |b - c|
+
+取餘數看前面那個的正負號
